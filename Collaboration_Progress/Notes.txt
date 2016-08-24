@@ -1,0 +1,3 @@
+Today I worked with Ali to figure out a better way to exchange work files, and have a better streamlined workflow that is more stable than Collab in Unity.
+
+August 24th, 2016
