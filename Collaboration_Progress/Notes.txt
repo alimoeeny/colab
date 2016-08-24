@@ -1,3 +1,6 @@
 Today I worked with Ali to figure out a better way to exchange work files, and have a better streamlined workflow that is more stable than Collab in Unity.
 
 August 24th, 2016
+
+I am actually very happy with the way things went, the setup on windows is bumpy but after that things got better.
+Ali
